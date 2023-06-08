@@ -9,6 +9,7 @@
     </head>
     <body>
         <p>This is the first file in my new Git Repo.</p>
+        
         <a href="/HTML/newpage.html">New page</a><br>
         <a href="/HTML/register.html">Register</a>
     <ul>

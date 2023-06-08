@@ -1,0 +1,3 @@
+ <a href="/HTML/newpage.html">New page</a><br>
+        <a href="/HTML/register.html">Register</a>
+    <ul>
