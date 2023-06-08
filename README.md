@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>My first website</title>
+        <title>our first website</title>
         <link rel="stylesheet" href="bluestyle.css">
     </head>
     <body>
