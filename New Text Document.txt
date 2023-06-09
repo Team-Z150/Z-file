@@ -1,3 +1,7 @@
+<<<<<<< HEAD
  <a href="/HTML/newpage.html">New page</a><br>
         <a href="/HTML/register.html">Register</a>
     <ul>
+=======
+new document
+>>>>>>> a570f7f892d56c99b5f2beca5df3e396d984484e
